@@ -58,6 +58,3 @@ def describe_project(project):
     print(f"Approval identified: {project['approved']}")
 
 #describe_project(project)
-
-git config --global user.name
-git config --global user.email
