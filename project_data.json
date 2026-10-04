@@ -1,0 +1,9 @@
+{
+    "name": "Kieswerk_Baur",
+    "city": "Freiburg",
+    "plant_type": "Kieswerk",
+    "capacity": 240,
+    "unit": "t/h",
+    "new_installation": true,
+    "approval_identified": false
+}
